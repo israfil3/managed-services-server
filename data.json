@@ -1,0 +1,129 @@
+[
+    {
+        "name": "Industry & Manufacturing",
+        "img": "https://tecnologia.vamtam.com/wp-content/uploads/2023/03/photo-1581091878591-4f0714c6f32f-300x300.jpg",
+        "highalite":"Insightful and reliable manufacturer IT services for productive and effective business",
+        "discopration": "You’ve got orders to fill, shipments to make, and clients to keep happy. Why spend your time and precious production resources worrying over your IT infrastructure? With the right managed service provider, you can rest easy that all your daily IT tasks are covered—so you can focus on getting the job done. At Tecnologia, we understand the unique demands of managing IT in a manufacturing environment, whether it’s maintaining your IOT or ensuring that your ERP system is being properly patched and updated. Let us help you keep your shop humming and create an IT infrastructure plan you can grow on.",
+        "img1":"https://ibb.co/HDqLZxw"
+    },
+    {
+        "name": "Transportation & Logistics",
+        "img": "https://tecnologia.vamtam.com/wp-content/uploads/2023/03/gettyimages-1385683178-612x612-1-300x300.jpg",
+        "highalite":"Insightful and reliable manufacturer IT services for productive and effective business",
+        "discopration":"You’ve got orders to fill, shipments to make, and clients to keep happy. Why spend your time and precious production resources worrying over your IT infrastructure? With the right managed service provider, you can rest easy that all your daily IT tasks are covered—so you can focus on getting the job done. At Tecnologia, we understand the unique demands of managing IT in a manufacturing environment, whether it’s maintaining your IOT or ensuring that your ERP system is being properly patched and updated. Let us help you keep your shop humming and create an IT infrastructure plan you can grow on.",
+        "img1": "https://ibb.co/Cz8V8sM"
+    },
+    {
+        "name": "Healthcare",
+        "img": "https://tecnologia.vamtam.com/wp-content/uploads/2023/03/gettyimages-1156457427-2048x2048-1-300x300.jpg",
+        "highalite":"Insightful and reliable manufacturer IT services for productive and effective business",
+        "discopration":"You’ve got orders to fill, shipments to make, and clients to keep happy. Why spend your time and precious production resources worrying over your IT infrastructure? With the right managed service provider, you can rest easy that all your daily IT tasks are covered—so you can focus on getting the job done. At Tecnologia, we understand the unique demands of managing IT in a manufacturing environment, whether it’s maintaining your IOT or ensuring that your ERP system is being properly patched and updated. Let us help you keep your shop humming and create an IT infrastructure plan you can grow on.",
+        "img1":"https://ibb.co/YXc585w"
+    },
+    {
+        "name": "Banks & Insurance",
+        "img": "https://tecnologia.vamtam.com/wp-content/uploads/2023/03/gettyimages-173289625-2048x2048-1-300x300.jpg",
+        "highalite":"Insightful and reliable manufacturer IT services for productive and effective business",
+        "discopration":"You’ve got orders to fill, shipments to make, and clients to keep happy. Why spend your time and precious production resources worrying over your IT infrastructure? With the right managed service provider, you can rest easy that all your daily IT tasks are covered—so you can focus on getting the job done. At Tecnologia, we understand the unique demands of managing IT in a manufacturing environment, whether it’s maintaining your IOT or ensuring that your ERP system is being properly patched and updated. Let us help you keep your shop humming and create an IT infrastructure plan you can grow on.",
+        "img1":"https://ibb.co/nbSLjXZ"
+
+    },
+    {
+        "name": "Consulting Providers",
+        "img": "https://tecnologia.vamtam.com/wp-content/uploads/2023/03/gettyimages-1375143131-2048x2048-1-300x300.jpg",
+        "highalite":"Insightful and reliable manufacturer IT services for productive and effective business",
+        "discopration":"You’ve got orders to fill, shipments to make, and clients to keep happy. Why spend your time and precious production resources worrying over your IT infrastructure? With the right managed service provider, you can rest easy that all your daily IT tasks are covered—so you can focus on getting the job done. At Tecnologia, we understand the unique demands of managing IT in a manufacturing environment, whether it’s maintaining your IOT or ensuring that your ERP system is being properly patched and updated. Let us help you keep your shop humming and create an IT infrastructure plan you can grow on."
+    },
+    {
+        "name": "Non-Profit",
+        "img": "https://tecnologia.vamtam.com/wp-content/uploads/2023/03/gettyimages-1429906360-2048x2048-1-300x300.jpg",
+        "highalite":"Insightful and reliable manufacturer IT services for productive and effective business",
+        "discopration":"You’ve got orders to fill, shipments to make, and clients to keep happy. Why spend your time and precious production resources worrying over your IT infrastructure? With the right managed service provider, you can rest easy that all your daily IT tasks are covered—so you can focus on getting the job done. At Tecnologia, we understand the unique demands of managing IT in a manufacturing environment, whether it’s maintaining your IOT or ensuring that your ERP system is being properly patched and updated. Let us help you keep your shop humming and create an IT infrastructure plan you can grow on.",
+        "img1":"https://i0.wp.com/corpsecurity.org/wp-content/uploads/2023/03/pexels-rfstudio-3810792-scaled.jpg?resize=1280%2C640&ssl=1"
+    },
+    [
+        {
+            "img":"https://shimakhtechnology.com/wp-content/uploads/2023/03/Insurance-1024x743.jpg",
+            "name":"CLOUD HOSTING",
+            "highalite":"Major Insurance Provider Saves $750k per Month With Big Data Migration",
+            "discopration":"The company needed to complete a complex migration on a tight deadline to avoid millions of dollars in post-contract fees and fines.",
+            "title1":"Modern infrastructure",
+            "title2":"Consulting services"
+        },
+        {
+            "img":"https://kenningtoncompudoc.com/wp-content/uploads/2023/03/nespresso-768x557.jpg",
+            "name":"IT CONSULTING",
+            "highalite":"Maximizing Efficiency with Proper Technology Implementation – Coffee Success Story",
+            "discopration":"We work that company needed to complete a complex migration on a tight deadline to avoid millions of dollars in post-contract fees and fines.",
+            "title1":"Modern infrastructure",
+            "title2":"Consulting services"
+        },
+        {
+            "img":"https://shimakhtechnology.com/wp-content/uploads/2023/03/undergroup-1024x743.jpg",
+            "name":"MOBILE DEVELOPMENT",
+            "highalite":"Strategic Move to an AI-supported application for Public Safety Travel App in London",
+            "discopration":"The company needed to complete a complex migration on a tight deadline to avoid millions of dollars in post-contract fees and fines.",
+            "title1":"Modern infrastructure",
+            "title2":"Consulting services"
+        }
+    ],
+    [
+        {
+            "img":"https://www.univ-paris8.fr/en/IMG/logo/arton1011.png?1659014457",
+           "name":"Managed Services" ,
+           "dissertation":"Free up your internal resources to focus on the business by letting us handle day to day support services, management, and monitoring of your IT.",
+           "price":"1000",
+           "img2":"https://th.bing.com/th/id/OIP.2ICmhXs2OyJTZWX8TFbkHgHaDq?w=316&h=173&c=7&r=0&o=5&pid=1.7"
+        },
+        {
+            "img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsASwm-sW2HRbF-v_ra54hJ0cO1csX6nK8ZcdJMX0xWMWAGgZ6",
+            "name":"IT Consulting & Advisory",
+            "dissertation":"The right technology, implemented properly, appropriately managed and monitored, can lead to significant gains in growth",
+            "price":"1550",
+            "img2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpeat3GaxgQu_YBbcVm6m7eSGCz89_GUSyXg&usqp=CAU"
+        },
+        {
+            "img":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4zwHTTGN-NHq89cQPFZhyqSDLcBGXyM50zqNgcelRrrBMNi0d",
+            "name":"Cyber Security",
+            "dissertation":"Our experts can identify vulnerabilities, assess risks, and implement robust security measures to safeguard your systems and data.",
+            "price":"1367",
+            "img2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgHZCfX5czTH0FaKg-wdeEq6pZZ2WVpiaisDUfB_24_Vb-9PzlPJbDKIb_vgFTIayTS0I&usqp=CAU"
+        },
+        {
+            "img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7Fvyu63XeaGD_NQfbUbHLejLwLlXbHsl1qpZOGUhFfPMOAxd9",
+            "name":"Web Development",
+            "dissertation":"Our web development services can help you establish an impactful online presence and reach your target audience effectively.",
+            "price":"1200",
+            "img2":"https://eboxman.com/wp-content/uploads/2022/10/3-2-720x400.webp"
+        },
+        {
+            "img":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpmCOFsSoNDdb9hYxXzRl-z2SzGyUL8IqjAuRf98EFZpeiOx69",
+            "name":"Mobile Development",
+            "dissertation":"We can help you create a customized mobile app that aligns with your brand and goals, with expertise in various mobile platforms.",
+            "price":"1890",
+            "img2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaemd1JU49HT1GPmhFXwgFl9NsrHMbaPLYl9MeIXcCg4CLYEwsCq7LMOSZp-KX2LmT0ys&usqp=CAU"
+        },
+        {
+            "img":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_ODIe1isUxmbfSqTfrOSfCKyfoo3Hmzk0thvo41Z_ZRNQVYfZ",
+            "name":"Cloud Services",
+            "dissertation":"With our expertise in cloud technologies, we can help you find the right cloud solutions that meet your business needs and goals.",
+            "price":"1970",
+            "img2":"https://www.simplilearn.com/ice9/free_resources_article_thumb/What_are_the_Types_of_Cloud_Computing_and_Cloud_Services.jpg"
+        },
+        {
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI_TvQG8lGIaJBSKU13fBPcmdsQFZ16BDDHTB5qOvYwIWbImGo",
+            "name":"NFT Development",
+            "dissertation":"Non Fungible Tokens are in Trend. We've been building them since 2016",
+            "price":"1460",
+            "img2":"https://i.imgur.com/y5fB5ko.jpg"
+        },
+        {
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1GA4xtP8liooE2r5hB0goj7IbDCDK1o7VBi7Tslbp5TvE94mP",
+            "name":"Software Development",
+            "dissertation":"From a custom CRM to Transportation Management System, we've built it all",
+            "price":"2200",
+            "img2":"https://geeks4learning.com/wp-content/uploads/2021/04/software-dev-australia.jpg"
+        }
+    ]
+    
+]
