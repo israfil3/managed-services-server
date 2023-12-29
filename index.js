@@ -43,7 +43,7 @@ const client = new MongoClient(uri, {
 
 async function run() {
   try {
-    // await client.connect();
+    await client.connect();
     const itemCollation = client.db('managedServices').collection('item');
     const parsonCollation = client.db('managedServices').collection('parson');
     const companyCollation = client.db('managedServices').collection('company');
