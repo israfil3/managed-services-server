@@ -152,10 +152,10 @@ app.get('/', (req, res) => {
   res.send('Hello World my name is israfil!')
 })
 
-// app.listen(port, () => {
-//   console.log(`Example app listening on port ${port}`)
-// })
+app.listen(port, () => {
+  console.log(`Example app listening on port ${port}`)
+})
 
-server.listen(port, () => {
-  console.log(`Server is running on port ${port}`);
-});
+// server.listen(port, () => {
+//   console.log(`Server is running on port ${port}`);
+// });
